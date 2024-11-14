@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome to Cross Board",
+  "nav": {
+    "favorites": "Favorites",
+    "cart": "Cart",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "price": "Price"
+  }
+} 

@@ -1,0 +1,13 @@
+{
+  "welcome": "Добро пожаловать в Cross Board",
+  "nav": {
+    "favorites": "Избранное",
+    "cart": "Корзина",
+    "login": "Войти",
+    "signup": "Регистрация"
+  },
+  "product": {
+    "addToCart": "Добавить в корзину",
+    "price": "Цена"
+  }
+} 

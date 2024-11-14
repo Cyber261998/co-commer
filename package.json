@@ -1,0 +1,42 @@
+{
+  "name": "cross-board",
+  "version": "1.0.0",
+  "description": "co-commerce",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Cyber261998"
+  },
+  "keywords": [
+    "G122344hub"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.3.13",
+    "@types/redis": "^4.0.10",
+    "firebase": "^11.0.1",
+    "i18next": "^23.16.5",
+    "ioredis": "^5.4.1",
+    "langchain": "^0.3.5",
+    "next": "^14.0.3",
+    "next-i18next": "^15.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.9.0",
+    "@types/react": "18.3.12",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.14",
+    "typescript": "5.6.3"
+  }
+}

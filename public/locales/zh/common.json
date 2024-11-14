@@ -1,0 +1,13 @@
+{
+  "welcome": "欢迎来到 Cross Board",
+  "nav": {
+    "favorites": "收藏夹",
+    "cart": "购物车",
+    "login": "登录",
+    "signup": "注册"
+  },
+  "product": {
+    "addToCart": "加入购物车",
+    "price": "价格"
+  }
+} 
